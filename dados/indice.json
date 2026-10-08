@@ -1,0 +1,326 @@
+{
+ "geradoEm": "2026-10-08T04:55:22+00:00",
+ "versao": "89662e623dba",
+ "df": {
+  "eleitores": 2243988,
+  "compareceram": 1817921,
+  "abstencao": 426067,
+  "validos": 1651394,
+  "brancos": 74774,
+  "nulos": 89910,
+  "subJudice": 1843,
+  "celina": 825530,
+  "leandro": 569930,
+  "paula": 140765,
+  "kiko": 72148,
+  "cappelli": 36828,
+  "n22": 26603,
+  "n55": 8456,
+  "coligacao": 4717,
+  "celinaPctValidos": 49.9899,
+  "faltaram": 335,
+  "ate": 848528,
+  "locais": 622,
+  "locaisLiderados": 564,
+  "viraveis": 18,
+  "lideradosLeandro": 54,
+  "abstPct": 18.99,
+  "r22": 1.46,
+  "abst22": 16.72
+ },
+ "zonas": [
+  {
+   "zona": 1,
+   "ras": [
+    "Plano Piloto"
+   ],
+   "locais": 26,
+   "eleitores": 76197,
+   "celina": 22626,
+   "leandro": 24654,
+   "n22": 381,
+   "abstencao": 14931,
+   "abstPct": 19.6,
+   "r22": 0.62
+  },
+  {
+   "zona": 2,
+   "ras": [
+    "Paranoá",
+    "Lago Norte",
+    "Itapoã"
+   ],
+   "locais": 31,
+   "eleitores": 119276,
+   "celina": 39501,
+   "leandro": 30674,
+   "n22": 1524,
+   "abstencao": 25079,
+   "abstPct": 21.0,
+   "r22": 1.62
+  },
+  {
+   "zona": 3,
+   "ras": [
+    "Taguatinga"
+   ],
+   "locais": 20,
+   "eleitores": 69677,
+   "celina": 27366,
+   "leandro": 16864,
+   "n22": 821,
+   "abstencao": 12258,
+   "abstPct": 17.6,
+   "r22": 1.43
+  },
+  {
+   "zona": 4,
+   "ras": [
+    "Santa Maria"
+   ],
+   "locais": 22,
+   "eleitores": 101448,
+   "celina": 36821,
+   "leandro": 22826,
+   "n22": 1458,
+   "abstencao": 20697,
+   "abstPct": 20.4,
+   "r22": 1.81
+  },
+  {
+   "zona": 5,
+   "ras": [
+    "Sobradinho",
+    "Sobradinho II",
+    "Fercal"
+   ],
+   "locais": 47,
+   "eleitores": 132863,
+   "celina": 49742,
+   "leandro": 34380,
+   "n22": 1570,
+   "abstencao": 25123,
+   "abstPct": 18.9,
+   "r22": 1.46
+  },
+  {
+   "zona": 6,
+   "ras": [
+    "Planaltina",
+    "Arapoanga"
+   ],
+   "locais": 50,
+   "eleitores": 136889,
+   "celina": 50479,
+   "leandro": 33723,
+   "n22": 2202,
+   "abstencao": 27177,
+   "abstPct": 19.9,
+   "r22": 2.01
+  },
+  {
+   "zona": 8,
+   "ras": [
+    "Ceilândia"
+   ],
+   "locais": 38,
+   "eleitores": 136259,
+   "celina": 51711,
+   "leandro": 32565,
+   "n22": 1946,
+   "abstencao": 26752,
+   "abstPct": 19.6,
+   "r22": 1.78
+  },
+  {
+   "zona": 9,
+   "ras": [
+    "Guará",
+    "Estrutural"
+   ],
+   "locais": 33,
+   "eleitores": 134038,
+   "celina": 47917,
+   "leandro": 36305,
+   "n22": 1362,
+   "abstencao": 25209,
+   "abstPct": 18.8,
+   "r22": 1.25
+  },
+  {
+   "zona": 10,
+   "ras": [
+    "Riacho Fundo II",
+    "Núcleo Bandeirante",
+    "Riacho Fundo"
+   ],
+   "locais": 36,
+   "eleitores": 123034,
+   "celina": 48301,
+   "leandro": 28855,
+   "n22": 1446,
+   "abstencao": 22925,
+   "abstPct": 18.6,
+   "r22": 1.44
+  },
+  {
+   "zona": 11,
+   "ras": [
+    "Sudoeste/Octogonal",
+    "Cruzeiro",
+    "Plano Piloto"
+   ],
+   "locais": 17,
+   "eleitores": 75563,
+   "celina": 25764,
+   "leandro": 22818,
+   "n22": 442,
+   "abstencao": 12842,
+   "abstPct": 17.0,
+   "r22": 0.7
+  },
+  {
+   "zona": 13,
+   "ras": [
+    "Samambaia",
+    "Água Quente"
+   ],
+   "locais": 29,
+   "eleitores": 140843,
+   "celina": 56458,
+   "leandro": 29912,
+   "n22": 2228,
+   "abstencao": 26555,
+   "abstPct": 18.9,
+   "r22": 1.95
+  },
+  {
+   "zona": 14,
+   "ras": [
+    "Plano Piloto"
+   ],
+   "locais": 31,
+   "eleitores": 110413,
+   "celina": 31376,
+   "leandro": 39885,
+   "n22": 553,
+   "abstencao": 19926,
+   "abstPct": 18.0,
+   "r22": 0.61
+  },
+  {
+   "zona": 15,
+   "ras": [
+    "Águas Claras",
+    "Taguatinga",
+    "Arniqueira"
+   ],
+   "locais": 34,
+   "eleitores": 168248,
+   "celina": 62390,
+   "leandro": 45991,
+   "n22": 1283,
+   "abstencao": 29029,
+   "abstPct": 17.3,
+   "r22": 0.92
+  },
+  {
+   "zona": 16,
+   "ras": [
+    "Ceilândia",
+    "Brazlândia",
+    "Sol Nascente"
+   ],
+   "locais": 56,
+   "eleitores": 153434,
+   "celina": 60506,
+   "leandro": 33287,
+   "n22": 2371,
+   "abstencao": 30341,
+   "abstPct": 19.8,
+   "r22": 1.93
+  },
+  {
+   "zona": 17,
+   "ras": [
+    "Gama",
+    "Ponte Alta"
+   ],
+   "locais": 32,
+   "eleitores": 128088,
+   "celina": 46351,
+   "leandro": 32490,
+   "n22": 1605,
+   "abstencao": 24411,
+   "abstPct": 19.1,
+   "r22": 1.55
+  },
+  {
+   "zona": 18,
+   "ras": [
+    "São Sebastião",
+    "Lago Sul",
+    "Jardim Botânico"
+   ],
+   "locais": 35,
+   "eleitores": 134134,
+   "celina": 48740,
+   "leandro": 35285,
+   "n22": 1424,
+   "abstencao": 25540,
+   "abstPct": 19.0,
+   "r22": 1.31
+  },
+  {
+   "zona": 19,
+   "ras": [
+    "Taguatinga",
+    "Vicente Pires"
+   ],
+   "locais": 30,
+   "eleitores": 110085,
+   "celina": 44637,
+   "leandro": 26076,
+   "n22": 1145,
+   "abstencao": 19501,
+   "abstPct": 17.7,
+   "r22": 1.26
+  },
+  {
+   "zona": 20,
+   "ras": [
+    "Ceilândia",
+    "Sol Nascente"
+   ],
+   "locais": 19,
+   "eleitores": 79007,
+   "celina": 30525,
+   "leandro": 18957,
+   "n22": 1041,
+   "abstencao": 14588,
+   "abstPct": 18.5,
+   "r22": 1.62
+  },
+  {
+   "zona": 21,
+   "ras": [
+    "Recanto das Emas",
+    "Samambaia"
+   ],
+   "locais": 28,
+   "eleitores": 114030,
+   "celina": 44139,
+   "leandro": 24233,
+   "n22": 1795,
+   "abstencao": 23134,
+   "abstPct": 20.3,
+   "r22": 1.97
+  }
+ ],
+ "fontes": {
+  "votacao": "TSE, votação por seção do 1º turno de 2026 (governador), conferida com o resultado oficial do DF",
+  "digitados": "TSE, Registro Digital do Voto (RDV) de 6.969 urnas do DF: número digitado em cada voto nulo",
+  "locais": "TSE, cadastro de locais e seções de 2026, com coordenadas conferidas",
+  "perfil": "TSE, perfil do eleitorado por seção (julho de 2026) e comparecimento do 2º turno de 2022"
+ }
+}
